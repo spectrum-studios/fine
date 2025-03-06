@@ -1,0 +1,10 @@
+[package]
+name = "fine"
+version = "0.1.0"
+description = "Multi-purpose terminal"
+authors = ["Spectrum Studios"]
+license = "Apache-2.0"
+edition = "2021"
+
+[dependencies]
+termion = "4.0.4"
